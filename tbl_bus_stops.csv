@@ -1,0 +1,277 @@
+stop_id,stop_no,stop_name,stop_circle,stop_location,remarks,latitude,longitude,accuracy,is_geotagged,updated_user_id,updated_timestamp
+231,103 A,Valiyashala - Shivashetram,M,In front of Sri Mahadeva Kshetram,NIL,8.4842667,76.960225,1.8,TRUE,22,51:11.3
+9,109 B,Ambalathumukku,O,2,NIL,8.4937817,76.9362267,2.05,TRUE,20,18:52.2
+74,111 A,Kannammoola,M,1,NIL,8.5031217,76.9317599,2.2,TRUE,20,31:17.8
+41,1:00 AM,East Fort - North Bus Stand,M,,NIL,8.4834225,76.9475029,19.11,TRUE,19,26:01.8
+18,100 B,Attakulangara Road,M,Opposite to SKP timbers,NIL,8.4796533,76.9524583,2.03,TRUE,20,24:05.6
+93,113 A,Koyikkal Lane,O,1,NIL,8.5084962,76.929779,1.8,TRUE,20,51:21.0
+71,112 B,John Cox College,R,near college gate,NIL,8.5066617,76.9310617,1.9,TRUE,20,44:09.2
+17,100 A,Attakulangara Road,M,In front of SKP Timbers,NIL,8.4794668,76.9524529,37.97,TRUE,24,26:42.4
+27,114 B,Burma Road,O,2,NIL,8.51042,76.9287983,2.24,TRUE,20,57:30.3
+77,78 B,Kannetumukku,M,Opposite to SV Automobiles,NIL,8.4906586,76.9612303,6,TRUE,24,23:34.9
+56,116 A,Govt Medical College HS School,B,1,NIL,8.5169227,76.9278005,3.42,TRUE,20,06:16.8
+14,31 B,Aristo,B,Opposite to Leksmi Narayana Bhavan,NIL,8.4887173,76.9536292,3.25,TRUE,22,57:46.9
+66,80 C,Jagathy - Govt High School,Y,Opposite to Govt HS,NIL,8.5005453,76.9677106,27.89,TRUE,24,46:53.3
+60,58,Govt. Medical College Bus Stand,V,,NIL,8.5224583,76.93019,1.87,TRUE,20,15:47.2
+10,50,Anadiyil Hospital,"G,O",,NIL,8.5101394,76.9427171,2.14,TRUE,20,31:04.6
+45,88 A,Elipodu Market,Y,Near to bus shelter,NIL,8.5088725,76.9909576,7.17,TRUE,21,41:25.1
+61,44,Gowreesha Hospital,V,,NIL,8.5087358,76.9384326,3.29,TRUE,20,47:30.9
+78,97 A,Karamana,M,Near to bus shelter,NIL,8.4817948,76.9673665,4.9,TRUE,21,15:51.9
+42,88 B,Elipodu,M,In front of Sree BABA Medicals,NIL,8.509382,76.9947122,17.18,TRUE,24,59:50.6
+88,99 A,Killipalam - Govt. High School Chalai,"V,G",In front of  School,NIL,8.4811543,76.9571103,4.5,TRUE,24,34:37.7
+20,03 B,Ayurveda College - Devaswom Board,B,,NIL,8.4925005,76.9475401,2.7,TRUE,20,31:09.1
+39,01 B,East Fort - Gandhi Park,"R,O,B,M",,NIL,8.4822189,76.9482244,1.9,TRUE,20,45:14.4
+40,01 C,East Fort - Govt Central High School,M,,NIL,8.4815349,76.9473825,4.38,TRUE,20,47:22.2
+34,75 B,Cotton Hill,G,2,NIL,8.5020629,76.9639235,3.91,TRUE,25,34:29.0
+81,97 D,Karamana - SGST Office,"R,B,V",In front of SGST Ofice,NIL,8.4812216,76.9616765,8.57,TRUE,21,53:57.7
+79,97 B,Karamana,M,Near bus shelter,NIL,8.4823238,76.9664472,6.8,TRUE,21,56:18.8
+33,75 A,Cotton Hill,V,1,NIL,8.50207,76.9639333,1.92,TRUE,25,36:40.5
+51,84 B,Forest Office,O,Opposite to Forest Office,NIL,8.5132878,76.985298,8.25,TRUE,21,34:57.8
+67,80 D,Jagathy - Govt High School,Y,In front of School,NIL,8.5005641,76.9680897,88.95,TRUE,24,42:20.5
+65,80 B,Jagathy,M,Opposite to HEERA,NIL,8.4949857,76.9645525,19.54,TRUE,24,55:23.5
+21,03 C,Ayurveda College - Kunnampuram Road,"R,O",Near Ayurveda College,NIL,8.4911679,76.9462148,7.2,TRUE,21,31:16.7
+59,25 B,Govt. Eye Hospital,"O,G",Opposite,NIL,8.4994576,76.940807,3.67,TRUE,22,46:41.3
+55,26 B,General Hospital,O,Opposite,NIL,8.4994447,76.9430216,1.75,TRUE,22,49:30.4
+54,26 A,General Hospital,O,Infront of Hospital,NIL,8.4993555,76.943028,7.21,TRUE,21,49:33.9
+83,06 B,Kerala University,Y,Airport Road,NIL,8.5022812,76.9479388,1.8,TRUE,22,53:41.4
+24,28 C,Bakery Jn - RBI,B,Infront,NIL,8.5010261,76.9539468,2.47,TRUE,22,21:53.0
+25,28 D,Bakery Jn - RBI,B,Opposite to RBI,NIL,8.500872,76.953816,5.93,TRUE,21,24:31.9
+22,28 A,Bakery Jn,V,Main Stop,NIL,8.5007857,76.95463,13.43,TRUE,21,33:23.8
+30,32,Chettikulangara Sreedevi Temple,B,,NIL,8.4889362,76.9453906,1.7,TRUE,22,43:53.7
+13,31 A,Aristo,B,1,NIL,8.4893737,76.9539998,5.09,TRUE,22,04:22.6
+38,39 A,Devaswom Board,"O,M",Kalyanamandapam Infront,NIL,8.5174618,76.9567496,1.35,TRUE,22,32:54.5
+36,39 B,Devaswom Board,V,Kalyanamandapam Opposite,NIL,8.5173008,76.956806,2.35,TRUE,20,37:20.3
+86,51,Keston Road,M,RelianceTrends,NIL,8.5159981,76.9591812,1.58,TRUE,22,52:05.7
+87,52,Keston Road - Christ Nagar School,"V,G",,NIL,8.5145358,76.9605169,2.23,TRUE,22,54:39.6
+91,37 A,Kowdiar - Gopala Pillai Island Park,O,,NIL,8.5216047,76.9608828,1.3,TRUE,22,15:04.2
+90,37 B,Kowdiar,G,2 Bus Shelter,NIL,8.5227116,76.9604065,2.2,TRUE,22,18:14.8
+5,35 B,Ambalamukku,Y,Muttada Road,NIL,8.5317494,76.9606666,1.4,TRUE,22,30:29.8
+7,35 A,Ambalamukku,"G,Y,V",Main Stop,NIL,8.5306817,76.9613567,1.4,TRUE,22,33:37.6
+11,79 A,Ananthapuri Auditorium,M,Exact opposite,NIL,8.4927155,76.9633488,16.18,TRUE,24,12:31.8
+6,35 C,Ambalamukku,,Return,NIL,8.5326167,76.9623267,3.08,TRUE,22,55:10.1
+62,67 B,HLL Life Care,M,In front of main gate,NIL,8.5282883,76.9681663,7.02,TRUE,24,16:00.0
+84,61 A,Kesavadasapuram,G,Bank Of Baroda,NIL,8.5306183,76.9388767,2.18,TRUE,20,14:28.1
+85,61 B,Kesavadasapuram - Chaithanya Eye Hospital,G,In front,NIL,8.5297591,76.9375558,3.9,TRUE,21,15:58.6
+46,60 A,FCI,R,Opposite,NIL,8.5292033,76.9351433,2.4,TRUE,20,23:23.5
+49,15 B,Forest Head Quarters,M,Infront,NIL,8.5030961,76.9596879,2.84,TRUE,20,03:02.4
+48,15 A,Forest Head Quarters,M,Opposite,NIL,8.5027933,76.9598267,1.58,TRUE,22,05:24.0
+72,12:00 AM,Kanakakunnu,O,Infront,NIL,8.5097175,76.9583756,2.46,TRUE,20,34:07.2
+70,112 A,John Cox College,R,opposite,opp. Kailas Bakery,8.5070083,76.9308017,1.76,TRUE,20,36:38.0
+2,73 B,Alakapuri Convention Center,"V,M",Opposite to the centre ,NIL,8.50767,76.97046,1.58,TRUE,22,22:55.5
+35,75 C,Cotton Hill - Government LP School,V,,NIL,8.5018038,76.9603368,4.26,TRUE,25,40:29.7
+69,66 B,Jalavijnana Bhavan,O,Opposite,NIL,8.5313994,76.9583171,4,TRUE,24,37:36.9
+4,55 B,12stop,Y,33,NIL,8.8131121,76.7540783,4.17,TRUE,14,41:33.2
+32,76 B,Cononment Gate,V,Infront of NABARD,NIL,8.4986183,76.950245,1.79,TRUE,22,39:38.5
+144,68 B,Oolampara - Mental Health Center,M,Opposite to hospital,NIL,8.5267545,76.9695294,4.99,TRUE,24,27:43.7
+100,96 B,Kunchalum moodu,"Y,G",Opposite to Chelsa Hospital,NIL,8.4853417,76.971625,1.64,TRUE,20,05:47.2
+171,110 A,Pettah- Pallimukku,V,1,NIL,8.4968754,76.9324709,2.72,TRUE,20,26:25.9
+97,115 A,Kumarapuram,M,1,NIL,8.5131181,76.9274604,2.78,TRUE,20,00:46.4
+176,70 D,Pippinmoodu Park,"R,O,B,V,G",In front of THIRUVITHAMKOOR KITCHEN,NIL,8.5173401,76.9734066,3.7,TRUE,24,05:08.8
+123,57 B,Murinjapalam,"V,G",Cosmo Hosp - Infront,NIL,8.5158037,76.9347896,2.4,TRUE,20,23:25.6
+117,62 B,MG College,B,Infront,NIL,8.5321329,76.9403655,6.1,TRUE,24,43:58.1
+182,17 A,Police Training College,M,Infront,NIL,8.4926317,76.9587683,4.55,TRUE,25,53:27.7
+104,41 A,Law College Jn.,B,1,NIL,8.5087567,76.9451967,1.58,TRUE,20,37:13.2
+118,42,Mirandra,B,,NIL,8.5043298,76.9419543,1.9,TRUE,20,40:15.4
+121,43,Mulavana,"Y,O",,NIL,8.5066773,76.9389382,2.24,TRUE,20,44:43.6
+178,09 B,PMG - Mascot Hotel,R,,NIL,8.5089407,76.9495387,2.73,TRUE,20,02:56.0
+186,93 A,Poojapura - HLL,M,Opposite to HLL,NIL,8.4954492,76.9780088,4.92,TRUE,21,04:17.0
+177,9:00 AM,PMG,R,,NIL,8.5084683,76.9497183,2.16,TRUE,20,06:31.8
+158,95 A,Pariksha bhavan,Y,Opposite to Paiksha Bhavan,NIL,8.4895689,76.9729405,6.4,TRUE,21,09:28.5
+99,96 A,Kunchalum moodu,"Y,G",Near to bus shelter,NIL,8.4847754,76.9713136,5.1,TRUE,21,12:26.5
+142,8:00 AM,Niyamasabha,V,Infront,NIL,8.50702,76.9505617,1.95,TRUE,20,13:47.0
+151,07 B,Palayam - Saphalyam,B,,NIL,8.5024463,76.9503072,3.52,TRUE,20,19:19.3
+145,21,Overbridge,M,,NIL,8.4893936,76.9473668,2.2,TRUE,20,34:52.2
+188,92 B,Poojapura - SBI,"O,G",Opposite to Poojappura SBI,NIL,8.49674,76.98033,1.5,TRUE,20,43:01.7
+184,94 B,Poojapura,M,Near to bus shelter,NIL,8.4931578,76.9748963,6.67,TRUE,21,03:56.4
+146,83 A,Padayani,O,Near to padayani turn,NIL,8.5137265,76.9810932,19.64,TRUE,24,59:50.2
+147,83 B,Padayani,O,Near to Padayani turn,NIL,8.5136001,76.9811873,5.7,TRUE,21,37:35.3
+154,74 A,Pangode - Market,Y,Infront of fish market,NIL,8.5052798,76.9694307,7.83,TRUE,21,48:25.4
+164,24 A,Pattoor,G,Syrian Church,NIL,8.4986813,76.9382768,9.64,TRUE,21,44:15.4
+152,7:00 AM,Palayam - Stadium,"V,M",Near to Stadium,NIL,8.5047895,76.9512349,10.49,TRUE,21,59:03.5
+107,20 B,LMS - Stadium,R,,NIL,8.5087187,76.9516994,2.3,TRUE,22,02:22.5
+137,27 B,Nanthavanam Camp,"V,G",Opposite,NIL,8.5059114,76.9537044,3.94,TRUE,22,08:59.1
+122,57 A,Murinjapalam,R,Cosmo Hosp - Opposite,NIL,8.5156178,76.934804,6.52,TRUE,24,57:59.0
+128,11 B,Museum - Public Office Complex,Y,In front of Public Office,NIL,8.5081557,76.9542619,7.57,TRUE,21,18:10.7
+119,30 A,Model School,"O,G",1,NIL,8.4937789,76.9540397,1.53,TRUE,22,41:11.7
+120,30 B,Model School,"Y,O",Chenkal Choola,NIL,8.4939616,76.9539269,6.5,TRUE,21,41:17.0
+126,11 D,Museum - Corporation Office,"B,R",2,NIL,8.5092167,76.9529833,4.72,TRUE,20,16:43.3
+135,40 C,Nanthancode - Rajeev Lane,B,,NIL,8.513445,76.9534258,2.3,TRUE,22,20:09.4
+133,40 B,Nanthancode,"V,G",2,NIL,8.5155714,76.9542158,1.52,TRUE,22,24:38.5
+134,40 A,Nanthancode,B,RBI,NIL,8.515225,76.95378,4.2,TRUE,20,24:48.4
+138,36 A,Narmadha - Income Tax Office,"V,G",Infront,NIL,8.5271986,76.9604499,1.5,TRUE,22,35:44.0
+163,47 B,Pattom,B,SUT Hospital,NIL,8.5182983,76.9416117,2,TRUE,20,40:41.4
+136,27 A,Nanthavanam Camp,G,Infront,NIL,8.505597,76.9539202,2.23,TRUE,22,56:09.1
+110,48 A,Marappalam,M,Transformer,NIL,8.5201336,76.945486,5.38,TRUE,24,34:59.9
+101,49 B,Kurvankonam,"Y,G",Federal Bank,NIL,8.5230273,76.9520459,5.8,TRUE,21,15:33.3
+103,49 C,Kurvankonam - St. Thomas Church,"O,G",,NIL,8.5223783,76.9506,1.5,TRUE,20,18:12.3
+111,48 B,Marappalam,M,Before Bridge,NIL,8.5202416,76.9459163,4.8,TRUE,24,30:34.3
+173,70 A,Pippinmoodu,V,In front of MANCHATTI Hotel,NIL,8.5189537,76.9722143,4.2,TRUE,24,52:29.4
+129,64 B,Muttada,Y,Opposite to Core Fitness,NIL,8.5346365,76.9491396,3.5,TRUE,24,19:16.0
+130,64 A,Muttada,Y,Opposite to Sub Registrar Office,NIL,8.5346469,76.9495595,2.81,TRUE,24,16:56.5
+132,64 D,Muttada - St Joseph School,"V,G",Near Thoppil Nagar,NIL,8.5353967,76.9455124,8.8,TRUE,24,07:52.4
+131,64 C,Muttada - St Joseph School,V,Infront of Cosmopolitan Club,NIL,8.5354982,76.945456,7.06,TRUE,24,00:51.7
+160,63 A,Paruthippara,"Y,G",Opposite Orion Hyper,NIL,8.5351418,76.9428741,3.3,TRUE,24,51:44.4
+116,62 A,MG College,"O,G",Opposite,NIL,8.5322467,76.9401733,1.54,TRUE,20,09:41.7
+114,18 A,Mettukada,Y,1,NIL,8.490174,76.9582094,2.22,TRUE,22,40:47.1
+105,41 B,Law College Jn.,"R,R,V,G",Infront IMG,NIL,8.5086817,76.9452783,3.62,TRUE,25,40:15.9
+179,14 B,Police Head Quarters,R,Opposite,NIL,8.5060933,76.9615267,1.46,TRUE,20,09:30.4
+180,14 A,Police Head Quarters,R,Infront,NIL,8.5069033,76.9619217,2.27,TRUE,20,12:24.3
+108,13 B,Manaveeyam Road,G,2,NIL,8.5086767,76.9617633,1.2,TRUE,20,16:08.2
+124,11:00 AM,Museum,"V,G",,NIL,8.5083767,76.954065,97.27,TRUE,20,30:38.4
+170,34 B,Peroorkada Govt HS,O,Infront,NIL,8.5343359,76.9637762,2.3,TRUE,20,45:09.0
+166,33 B,Peroorkada,"Y,V,G",Near Junction Josco,NIL,8.5370733,76.9658667,1.5,TRUE,20,53:26.0
+167,33 C,Peroorkada,Y,Post Office Opposite,NIL,8.5368492,76.966708,2.64,TRUE,20,58:36.6
+168,33 A,Peroorkada Depot,"Y,V,G",,NIL,8.5347728,76.9676714,2.63,TRUE,20,00:51.2
+174,70 B,Pippinmoodu,V,Junction,NIL,8.5187998,76.9722677,6.4,TRUE,24,57:53.5
+98,115 B,Kumarapuram,M,"near kovil side,taxi stand",NIL,8.5145853,76.927578,1.98,TRUE,20,05:03.1
+96,104 B,KSRTC Transport Bhavan,O,2,NIL,8.4806711,76.9457998,1.66,TRUE,22,59:02.6
+28,102 A,Chenthitta - Govt Tamil School,M,In front of Steel Point,NIL,8.4841847,76.9563158,12.16,TRUE,24,07:57.6
+95,104 A,KSRTC Transport Bhavan,O,1,Gate side,8.4805517,76.9457333,1.2,TRUE,20,20:33.6
+239,105 A,Vazhapally,V,1,bus stop,8.4805233,76.9420783,3.3,TRUE,20,30:08.6
+52,107 A,Fort Hospital,B,opp.Canara bank,NIL,8.4841967,76.9418017,1.1,TRUE,20,03:36.5
+149,106 B,Padinjarenada,"R,O,V",2,at aid post,8.4827356,76.9419163,1.8,TRUE,20,45:09.0
+196,69 A,SAP Camp,V,In front of SAP,NIL,8.5253686,76.9698348,5.5,TRUE,24,32:33.1
+206,108 A,Sree Kateswaram Temple,M,1,NIL,8.4874187,76.9422479,1.8,TRUE,20,02:17.9
+207,108 B,Sree Kateswaram Temple,M,2,temple side,8.4874083,76.9423017,1.7,TRUE,20,04:52.2
+229,22 A,Uppiddamoodu Bridge,M,Tribunal Opposite,NIL,8.4907697,76.9403676,3.1,TRUE,20,08:43.9
+230,22 B,Uppiddamoodu Bridge,M,Tribunal Infront,NIL,8.4907633,76.9403767,1.6,TRUE,20,10:37.7
+8,109 A,Ambalathumukku,O,1,NIL,8.4938233,76.93617,2.38,TRUE,20,16:59.5
+75,111B,Kannammoola,M,2,childrens home,8.5029369,76.9318251,3.27,TRUE,20,33:05.0
+216,02 D,Thampanoor - KTDC Chaithram,"R,O,B,M",,Near to Sreekumar Theatre,8.4879383,76.9501273,7.5,TRUE,21,34:46.4
+217,2:00 AM,Thampanoor - Main Bus Stand,"R,O,B,M",,Near to waiting shed,8.4877339,76.9518975,23.97,TRUE,19,37:03.8
+94,113 B,Koyikkal Line,O,2,NIL,8.508545,76.9297533,1.64,TRUE,20,53:14.3
+205,77 B,Shanthi Kavadam,O,Just after opposite Shanthi Kavadam from kannettumukku,NIL,8.48894,76.9614883,2.24,TRUE,22,31:23.9
+57,116 B,Govt Medical College HS School,B,in front bus stop,NIL,8.516945,76.927755,5.08,TRUE,20,08:21.3
+43,88 C,Elipodu,M,Opposite to Sree Rudra Medicals,NIL,8.5096941,76.9943737,15.34,TRUE,24,54:01.0
+204,77 A,Shanthi Kavadam,O,In front of Shanthi Kavadam,NIL,8.4891987,76.9613553,16.99,TRUE,24,33:24.5
+200,71 C,Sasthamangalam,"M,V",Infront of Fincare SFB,NIL,8.5129894,76.9722022,20.37,TRUE,24,12:06.3
+190,45 B,Pottakuzhy,M,After Jn.,NIL,8.5141212,76.9378551,3.24,TRUE,20,28:03.8
+50,84 A,Forest Office,O,Before forest office gate,NIL,8.5134174,76.984579,81.32,TRUE,24,51:24.4
+193,85 A,PTP Nagar,G,After the turn towards Vettamukku,NIL,8.5126259,76.987761,21.49,TRUE,24,40:39.3
+189,45 A,Pottakuzhy,M,Banayan Tree,NIL,8.5143557,76.9374017,3.6,TRUE,20,50:21.9
+220,90 C,Thirumala,M,Near to bus shelter,NIL,8.5040749,76.9935233,7.75,TRUE,21,53:00.2
+247,91 A,Vijayimohini Mill,"R,V,B",Near to bus shelter,NIL,8.4978645,76.9853858,7,TRUE,21,59:21.8
+248,10,Vikas Bhavan Depot,"Y,G",,NIL,8.5085633,76.946915,2.54,TRUE,20,59:33.7
+212,04 C,Statue - Secretariat,Y,,NIL,8.4973019,76.9485293,3.08,TRUE,20,22:40.1
+218,02 B,Thampanoor - Railway Station,M,,NIL,8.4874132,76.9522827,1.88,TRUE,20,38:17.1
+219,02 C,Thampanoor - RMS,M,,NIL,8.4877008,76.9505789,1.9,TRUE,20,40:04.5
+246,91 B,Vijaya Mohini Mill,"R,O,B,V,G",Opposite to GARRISON ENGINEER,NIL,8.4980602,76.9856611,10.08,TRUE,21,14:40.6
+234,89 B,Valiyavila,B,In front of AJIN TRANSPORT,NIL,8.5071637,76.9983417,9.33,TRUE,21,22:05.1
+194,85 B,PTP Nagar,V,After PTP Nagar turn to forest office,NIL,8.5129142,76.9872317,7.3,TRUE,21,33:24.4
+202,72 B,Sasthamangalam - Raja Kesavadas school,M,In front of SBI,NIL,8.5120685,76.9713733,6.15,TRUE,24,30:07.7
+236,23 B,Vanchiyoor Court,Y,Infront,blue circle,8.493999,76.9404021,2.3,TRUE,22,35:06.0
+235,23 A,Vanchiyoor Court,Y,Opposite,NIL,8.4950749,76.940088,7.67,TRUE,21,37:58.9
+210,4:00 AM,Statue - BSNL,"R,O,V",,NIL,8.4968388,76.948267,1.6,TRUE,22,59:52.8
+224,19 B,Thycaud Hospital,"V,G",Opposite,NIL,8.4872967,76.9562617,2.07,TRUE,22,58:03.1
+211,04 B,Statue - SBI,"R,O",,NIL,8.4991334,76.9486351,1.9,TRUE,22,04:25.3
+249,5,VJT,"Y,G",,NIL,8.5029876,76.9493489,1.58,TRUE,22,08:35.0
+225,38 A,TTC,Y,1,"nanthancode road, near workshop",8.5191668,76.9597225,1.6,TRUE,22,05:06.1
+250,46 A,Vythuthi Bhawan,R,Opposite,NIL,8.5160632,76.938065,9.1,TRUE,21,36:19.6
+240,105 B,Vazhapally,V,2,NIL,8.480765,76.9419683,1.4,TRUE,20,40:24.5
+213,54 A,Swanthana Hospital Jn.,Y,1,NIL,8.5316417,76.9595733,2.03,TRUE,20,13:15.6
+238,65 B,Vayalikada,O,Opposite to ANASWARA,NIL,8.5330705,76.9532111,7.8,TRUE,24,29:03.5
+214,54 B,Swanthana Hospital Jn.,"R,O,B,M",In front of Canara Bank,NIL,8.5318864,76.9603048,4,TRUE,24,54:20.4
+227,59 A,Ulloor,"O,B",Main Bus Stop,NIL,8.529813,76.9300348,8.42,TRUE,21,30:01.6
+251,46 B,Vythuthi Bhawan,V,Infront,NIL,8.5158944,76.9381288,7,TRUE,21,41:14.6
+243,16 B,Vazhuthacaud - Womens College,M,Main Bus Stop,NIL,8.4978317,76.9575833,2.7,TRUE,20,54:28.3
+197,69 B,SAP Camp,M,In front of SAP parade ground,NIL,8.524996,76.9698999,5.7,TRUE,24,35:44.4
+203,72 A,Sasthamangalam - Raja Kesavadas school,M,Infront of School,NIL,8.5120209,76.9714763,3.2,TRUE,24,26:14.0
+242,16 C,Vazhuthacaud - Womens College,M,Main Gate,NIL,8.4984077,76.9570585,1.5,TRUE,20,31:32.6
+244,87 A,Vettamukku,M,Opposite Vettamukku Park,NIL,8.5086588,76.9875838,106.65,TRUE,24,19:07.4
+201,71 D,Sasthamangalam,V,Opposite Muthoot,opposite fincare,8.5129382,76.9722495,1.63,TRUE,22,08:58.9
+140,86,Nirmithi Kendram,"R,O,B,V",Near to Nirmithikendram entrance,NIL,8.5106236,76.9877117,12.59,TRUE,24,30:59.9
+112,82 A,Maruthankuzhi,R,In front of Shelter,NIL,8.5140967,76.9771966,17.19,TRUE,24,23:53.4
+208,81 A,Sree Ramakrishna Hospital,"R,O,V",In front of Neethi medicals,NIL,8.5133887,76.9735423,17.67,TRUE,24,00:40.4
+155,74 B,Pangode - Market,Y,Opposite to Petrol Pump,NIL,8.5039094,76.9687838,102.31,TRUE,24,36:57.1
+64,80 A,Jagathy,M,In front of Indian Institute of Technical Arbitrators,NIL,8.4940513,76.963839,15.49,TRUE,24,01:31.7
+76,78 A,Kannetumukku,M,In front of Lakshmi Traders,NIL,8.4916994,76.9617632,92.9,TRUE,24,18:48.1
+187,92 A,Poojapura - SBI,"O,G",In front of SBI,NIL,8.4968309,76.9806382,8.1,TRUE,21,01:53.4
+183,94 A,Poojapura,M,Near bus shelter,NIL,8.4920323,76.9740749,5.75,TRUE,21,07:00.3
+141,08 B,Niyamasabha,V,Oppsite Side,NIL,8.50702,76.95071,2.06,TRUE,20,10:49.3
+150,07 C,Palayam - Fine Arts College,"R,O,B,V",,NIL,8.5050919,76.9514818,3.88,TRUE,20,16:48.9
+80,97 C,Karamana - SGST Office,B,Near to bus shelter,NIL,8.4811023,76.9617632,5.5,TRUE,21,18:52.5
+191,98 A,PRS Hospital,M,Near to bus shelter,NIL,8.4813211,76.9591321,5.42,TRUE,21,20:51.8
+29,102 B,Chenthitta - Govt Tamil School,M,In front of Hatson Daily,NIL,8.4835309,76.9578045,3.9,TRUE,24,01:52.5
+192,98 B,PRS Hospital,M,Opposite to PRS Hospital,NIL,8.4814491,76.9594611,5,TRUE,21,51:59.2
+159,95 B,Pariksha Bhavan,Y,Near to Government UPS,NIL,8.4901583,76.973001,9.32,TRUE,21,01:24.3
+185,93 B,Poojapura - HLL,M,In front of HORTICORP,NIL,8.4962193,76.9790486,9.4,TRUE,21,10:28.4
+222,90 B,Thirumala Jn.,R,In front of CSB Bank,NIL,8.5029315,76.9927147,5.4,TRUE,21,18:28.7
+209,81 B,Sree Ramakrishna Hospital,"R,O",Near to Hospital,NIL,8.5133625,76.9734017,8.1,TRUE,21,42:05.4
+165,24 B,Pattoor,"G,V",Canara Bank,opposite artech,8.4975069,76.9380261,1.57,TRUE,22,40:58.4
+58,25 A,Govt. Eye Hospital,"Y,O",Infront of Hospital,NIL,8.4992872,76.9407857,8.2,TRUE,21,47:05.6
+82,6:00 AM,Kerala University,Y,Front Gate,NIL,8.5032797,76.9482334,7.1,TRUE,21,56:12.5
+106,20 A,LMS,R,in front of Hostel,NIL,8.5074514,76.9521685,7.89,TRUE,21,05:13.7
+23,28 B,Bakery Jn - Ambrosia,V,,NIL,8.5001616,76.9539168,1.5,TRUE,22,29:13.2
+153,29,Panavila,"V,M",In front of bus shelter,NIL,8.4980349,76.9546916,6.3,TRUE,21,37:19.7
+223,19 A,Thycaud Hospital,"V,G",Infront,NIL,8.4871813,76.9563452,6.56,TRUE,21,53:34.4
+19,3:00 AM,Ayurveda College,"R,O",Main Bus Stop,NIL,8.4914846,76.9469925,3.91,TRUE,21,49:23.3
+125,11 C,Museum - Corporation Office,B,1,NIL,8.5092077,76.9532959,2.34,TRUE,22,17:17.0
+37,39 C,Devaswom Board,"O,M",Keston Road,NIL,8.5176086,76.9572841,1.8,TRUE,22,43:12.5
+226,38 B,TTC,Y,Kowdiar Road,NIL,8.5198798,76.960603,2.38,TRUE,22,07:52.4
+92,37 C,Kowdiar - SPTPM Govt. UP School,O,,NIL,8.5221833,76.9598483,2.1,TRUE,20,15:20.6
+139,36 B,Narmadha - Income Tax Office,"R,O,B,V",Opposite,NIL,8.5275787,76.9601563,3.04,TRUE,20,25:30.9
+102,49 A,Kurvankonam - Pattam Thanupilla Park,"O,G",In front of Pattom Thanupilla Park,NIL,8.5235619,76.9539231,7.8,TRUE,21,24:35.8
+3,55 A,Ambala Nagar,Y,Near Bus Shelter,NIL,8.5301506,76.9569316,13.77,TRUE,21,40:00.3
+215,54 C,Swanthana Hospital Jn.,"R,O,B,M",Opposite to Krishna Sanitarywares,NIL,8.5318929,76.9596733,3.71,TRUE,24,48:54.4
+161,63 B,Paruthippara,"Y,G",Near bus shelter,NIL,8.5339792,76.942151,7,TRUE,21,59:03.3
+115,18 B,Mettukada,Y,2,NIL,8.4902183,76.958085,1.9,TRUE,20,39:37.6
+181,17 B,Police Training College,M,Opposite,NIL,8.4936083,76.9580883,2.12,TRUE,20,48:29.2
+241,16 A,Vazhuthacaud - Kalabhavan Theatre,"R,V",,NIL,8.5001767,76.9581117,3.53,TRUE,20,59:46.4
+109,13 A,Manaveeyam Road,G,1,NIL,8.5088008,76.9617582,1.5,TRUE,22,18:00.5
+232,103 B,Valiyashala - Shivashetram,M,Opposite Valiyashala temple,NIL,8.4838665,76.9600682,15.47,TRUE,24,50:46.5
+15,101 A,Attakulangara - Ramachandra,M,Opposite to RAMACHANDRA,near KK Matton stall,8.479485,76.9492417,1.7,TRUE,20,07:03.3
+31,76 A,Cononment Gate,V,1,NIL,8.49837,76.9503041,1.6,TRUE,22,38:04.1
+53,107 B,Fort Hospital,B,2,NIL,8.4855234,76.9419801,4.96,TRUE,20,53:01.2
+169,34 A,Peroorkada Govt HS,O,infront of reena gardens,NIL,8.5343262,76.9640605,2.2,TRUE,24,43:58.1
+156,56 A,Kuravankonam Market,M,gokulam junction,NIL,8.5274546,76.9556201,3.6,TRUE,24,12:55.7
+157,56 B,kuravankonam Market,M,opposite senthil waste paper,NIL,8.5273236,76.9553085,3.5,TRUE,24,15:18.2
+162,47 A,Pattom,B,Ln front of Traffic Police station,NIL,8.5182756,76.9413213,2.9,TRUE,24,42:29.3
+127,11 E,Museum - Police Station,Y,,NIL,8.5070817,76.9556197,1.72,TRUE,22,08:02.1
+237,65 A,Vayalikada,O,Opposite to MARM and CLEO,NIL,8.5330514,76.9535012,4.33,TRUE,24,25:23.6
+228,59 B,Ulloor,"O,B",In front of AATAPPPALLY BUILDINF,NIL,8.5287456,76.9286875,4.5,TRUE,24,14:39.0
+47,60 B,FCI,R,Directorate of Mining and Geology,NIL,8.5291593,76.935143,7.5,TRUE,24,30:24.1
+68,66 A,Jalavijnana Bhavan,O,Infront,NIL,8.531637,76.9579594,2.9,TRUE,24,35:06.1
+148,106 A,Padinjarenada,"R,O,B,V",opp.Sree kanteshwara flower,NIL,8.4836801,76.941872,1.62,TRUE,20,50:53.7
+63,67 A,HLL Life Care,M,Opposite HLL,NIL,8.5283865,76.9680355,5.5,TRUE,24,11:42.9
+143,68 A,Oolampara - Mental Health Center,"R,O",in front of hospital,NIL,8.5266974,76.9695933,6.7,TRUE,24,24:37.9
+26,114 A,Burma Road,O,opposite MSP medicals,NIL,8.5106833,76.9285,1,TRUE,20,54:08.7
+199,71 B,Sasthamangalam,"M,V",In front of RAVI STUDIO,NIL,8.5136511,76.9718776,4.75,TRUE,24,18:12.3
+221,90 A,Thirumala Jn.,R,In front of SBI Thirumala,NIL,8.5014808,76.9913069,1.88,TRUE,20,12:18.1
+16,101 B,Attakulangara - Ramachandra,M,In front of SPIDER Shop,NIL,8.4793759,76.9484379,14.46,TRUE,24,12:05.5
+195,53,Raj Bhavan,V,,NIL,8.5136583,76.9615817,1.98,TRUE,25,13:46.6
+233,89 A,Valiyavila,B,Opposite to Nelliyoorkonam road,NIL,8.5073178,76.998056,18,TRUE,24,43:41.7
+44,88 D,Elipodu Market,Y,Opposite to bus shelter,NIL,8.5087464,76.9909704,93.57,TRUE,24,12:14.4
+245,87 B,Vettamukku,M,Near to Vettamukku park,NIL,8.5086031,76.9875434,6,TRUE,24,17:11.2
+1,73 A,Alakapuri Convention Center,"V,M",Near Convention Centre,NIL,8.5071828,76.9703872,16.51,TRUE,24,20:32.5
+113,82 B,Maruthankuzhi,R,Opposite to Muthoot Gincorp,NIL,8.5128384,76.9778509,5,TRUE,24,14:18.8
+12,79 B,Ananthapuri Auditorium,M,In front of Ananthapuri Auditorium,NIL,8.4924693,76.9633914,14.08,TRUE,24,06:28.5
+73,12 B,Kanakakunnu,O,Opposite,NIL,8.5092903,76.9575468,2.88,TRUE,25,22:49.2
+175,70 C,Pippinmoodu Park,"R,O,B,V,G",In front of Park,NIL,8.5173407,76.9734228,5.2,TRUE,24,02:39.9
+198,71 A,Sasthamangalam,M,In front of Indian Overseas Bank,NIL,8.5135944,76.9719219,6.83,TRUE,24,15:42.8
+172,110 B,Pettah- Pallimukku,V,near vocational school,NIL,8.49558,76.9342583,2.94,TRUE,20,25:22.8
+89,99 B,Killipalam - Govt. High School Chalai,,Opposite to School,near garden fresh,8.4809314,76.9567017,1.27,TRUE,20,33:37.0
+257,22 C,Uppidamoodu Bridge,B,Above Bridge,NIL,8.4901517,76.9413633,2.25,TRUE,25,52:58.7
+264,90 C,Thirumala - Pallimukku,M,1,opposite park,8.5003043,76.9884316,1.7,TRUE,22,15:18.2
+265,90 D,Thirumala - Pallimukku,M,Infront of park,NIL,8.5003793,76.9884624,4.5,TRUE,24,17:15.1
+274,122,Kunnumpuram Jn.,B,Ayurveda College,NIL,8.4909551,76.9437074,2,TRUE,25,01:23.9
+269,118 B,Arayalloor,M,Near Kunnil Super Market,NIL,8.5063694,76.9948178,16.8,TRUE,24,24:01.6
+266,117 A,AKG Centre,B,1,NIL,8.5006717,76.946285,3.42,TRUE,25,17:11.3
+268,118 A,Arayalloor,M,Near Travancore Used Cars,NIL,8.5065615,76.9955954,6.5,TRUE,24,31:31.3
+258,40 D,Nanthancode - Rajeev Nagar,"Br, V",2,NIL,8.5134217,76.95335,3.4,TRUE,25,52:48.9
+260,49 E,Kuravankonam ,Br,Windsor Mansions,NIL,8.523515,76.953915,4.7,TRUE,25,36:13.4
+259,49 D,Kuravankonam - St. Thomas Church,"Br, Y",Opposite of KIMS,NIL,8.5224864,76.9506246,104.1,TRUE,25,39:56.5
+275,123 A,Swathi Nagar,V,Near Marshal Automobile,NIL,8.5216728,76.9717707,3.88,TRUE,25,02:32.4
+276,123 B,Swathi Nagar,V,Opposite to 123A,NIL,8.5213933,76.9715183,2.26,TRUE,25,03:46.8
+267,117 B,AKG Centre,B,2,NIL,8.5007112,76.9462828,22.14,TRUE,25,22:07.3
+261,75 D,Vazhuthacaud -  Survey Directorate,V,near Srimoolam Club,NIL,8.5018263,76.9602728,4.6,TRUE,25,30:11.3
+273,121,Sri Swathi Thirunal Sangeetha College,R,,NIL,8.4904681,76.9562722,3.36,TRUE,25,44:20.1
+272,120,Govt. Arts College,R,,NIL,8.4931647,76.9561856,2.4,TRUE,25,47:24.5
+255,17 C,NORKA ,R,Infront side,NIL,8.4932451,76.9576403,4.47,TRUE,25,50:06.8
+271,119 B,Bharat Bhavan,R,Infront side,NIL,8.4951323,76.9581716,104.1,TRUE,25,58:48.6
+270,119 A,Bharat Bhavan,R,Opposite side,NIL,8.4954656,76.9582815,4.38,TRUE,25,59:56.2
+256,20 C,LMS - Mascot Hotel ,"R, B, Br, V",AI Engineering Service Ltd,NIL,8.5088569,76.9508172,2.63,TRUE,25,34:04.1
+252,01 D,East Fort - Opposite North Bus Stand ,"R, B, M, O",Drop point,NIL,8.483514,76.9477955,2.08,TRUE,22,56:32.1
+253,01 E,East Fort - Karimpanal Arcade,"M, O",,NIL,8.4814483,76.9472646,1.66,TRUE,22,00:45.0
+254,04 D,Statue - AG's Office,"R, V",opposite Indian Oil pump,NIL,8.4996753,76.9489521,1.6,TRUE,22,46:43.4
+262,76 C,Jacob's Jn.,V,opposite Trishna complex,NIL,8.4999791,76.9512587,1.83,TRUE,22,54:59.0
+263,76 D,Jacob's Jn.,V,Infront of Muthoot fincorp,NIL,8.5001755,76.9511629,1.7,TRUE,22,56:44.9
